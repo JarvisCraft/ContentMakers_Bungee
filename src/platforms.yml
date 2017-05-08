@@ -1,0 +1,11 @@
+video:
+  youtube:
+    aliases:
+    - youtube
+stream:
+  youtube:
+    viewers-num-url: 'https://www.youtube.com/live_stats?v=%id%'
+    viewers-num-placeholder: '%id%'
+    viewers-num-frequency: 10
+    aliases:
+    - youtube

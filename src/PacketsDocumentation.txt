@@ -1,0 +1,16 @@
+Constant Formats:
+  STREAM_DATA:
+  {
+    streamPlatform:
+    streamID:
+    streamName:
+    streamViewers:
+  }
+Packets
+  updateStream:
+  {
+    [streamUUID]
+    [STREAM_DATA]
+  }
+Comments:
+'streamUUID' is the name of the streamer

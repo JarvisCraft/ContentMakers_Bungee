@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ContentMakers [Bungee]:jar">
+    <output-path>$USER_HOME$/Desktop/YouTubers[Bungee]/plugins</output-path>
+    <root id="archive" name="YouTubers [Bungee].jar">
+      <element id="module-output" name="ContentMakers [Bungee]" />
+    </root>
+  </artifact>
+</component>

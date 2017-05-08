@@ -1,0 +1,9 @@
+#
+# This is 'ContentMakers' Plugin config
+#                             by PROgrammer_JARvis
+messages:
+  new_stream:
+    youtube:  '[YouTube] На канале %channel% начался стрим! Бегом смотреть: %url% (%name%)!'
+stream:
+# Time in seconds
+  update-packet-interval: 30
